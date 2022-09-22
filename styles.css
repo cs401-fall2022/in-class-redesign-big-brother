@@ -4,7 +4,5 @@ body {
 #dropdown {
 background-color: white;
 display: flex;
+text-align: center;
 }
-#dropdown > * {
-    margin: 25px;
-  }
