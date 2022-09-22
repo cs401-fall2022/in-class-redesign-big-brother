@@ -3,5 +3,8 @@ body {
 }
 #dropdown {
 background-color: white;
-
+display: flex;
 }
+#dropdown > * {
+    margin: 25px;
+  }
