@@ -40,20 +40,8 @@ table{
     width:70%;
     height:70%;
 }
-table > tr > td{
-    text-align: center;
-}
 h2{
     text-align: center;
     color: #DC8936;
     font-size: xx-large;
-}
-
-table{
-    border-collapse:collapse;
-    border:1px solid #112A42 ;
-}
-    
-table td{
-    border:1px solid #112A42 ;
 }
