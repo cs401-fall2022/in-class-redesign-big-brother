@@ -45,3 +45,7 @@ h2{
     color: #DC8936;
     font-size: xx-large;
 }
+     
+table td{
+    border:1px solid #112A42 ;
+}
