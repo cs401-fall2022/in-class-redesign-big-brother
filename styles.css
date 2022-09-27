@@ -48,4 +48,9 @@ h2{
      
 table td{
     border:1px solid #112A42 ;
+    
+}
+.active{
+    color:blue
+
 }
