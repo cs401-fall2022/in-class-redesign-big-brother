@@ -48,3 +48,12 @@ h2{
     color: #DC8936;
     font-size: xx-large;
 }
+
+table{
+    border-collapse:collapse;
+    border:1px solid #112A42 ;
+}
+    
+table td{
+    border:1px solid #112A42 ;
+}
