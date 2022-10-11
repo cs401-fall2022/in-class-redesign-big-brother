@@ -1,0 +1,47 @@
+h1 {
+    font-size: 35px;
+
+}
+body {
+    background-color: azure;
+    padding-top: 30px;
+    padding-left: 50px; 
+    padding-right: 50px;
+}
+#dropdown {
+    background-color: white;
+    display: flex;
+    width: 100%;
+    text-align: center;
+}
+#dropdown ul { 
+    position: relative;
+    float: left;
+    left: 50%;
+    padding: 0;
+    list-style: none; 
+}
+#dropdown li { 
+    position: relative;
+    float: left;
+    right: 50%;
+    margin: 20px; 
+}
+#dropdown ul li a{
+    text-decoration: none;
+    color:black;
+    font-size: large;
+}
+table{
+    border-radius: 5px;
+    border-style: solid;
+    border-width: 3px;
+    border-color:blue;
+    width:70%;
+    height:70%;
+}
+h2{
+    text-align: center;
+    color: #DC8936;
+    font-size: xx-large;
+}
